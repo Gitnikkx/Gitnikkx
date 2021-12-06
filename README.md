@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Gitnikkx
-- 👀 I’m interested in building some projects
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on app development(android studio)
+  :)
+  
 
 
 <!---
