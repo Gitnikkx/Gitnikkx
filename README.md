@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" height="30px"/> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitnikkx&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </div>
 
 
